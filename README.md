@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# moneyManagerrApp
-=======
-# moneymanger_app
+Money Manager App screenShots
 
-A new Flutter project.
+ScreenShot-1
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![MM](https://github.com/9Ismail/moneymanger_app/assets/106706469/6b49d12c-cca3-4e3c-879c-6e9d39804c16)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c586360 (MoneyManger_App)
+ScreenShot-2
+
+
+![MM1](https://github.com/9Ismail/moneymanger_app/assets/106706469/124e3860-ae26-4cd2-a5bd-10073a8419f2)
+
+ScreenShot-3
+
+![MM2](https://github.com/9Ismail/moneymanger_app/assets/106706469/926c5939-c01f-40ee-8632-4003b3e2a033)
+
+ScreenShot-3
+
+![MM3](https://github.com/9Ismail/moneymanger_app/assets/106706469/c72b6886-1081-4267-94da-d43e3c45ca15)
